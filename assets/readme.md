@@ -1,0 +1,1 @@
+Store graphical assets here
